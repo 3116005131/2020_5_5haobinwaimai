@@ -96,8 +96,27 @@
 </template>
 
 <script>
+import {mapState} from 'vuex'
+import { MessageBox, Toast } from 'mint-ui'
 import HeaderTop from '../../components/HeaderTop/HeaderTop'
 export default {
+  computed: {
+    ...mapState(['userInfo'])
+  },
+  methods: {
+    logout () {
+      MessageBox.confirm('确认退出吗').then(
+        action => {
+          // 请求退出
+          this.$store.dispatch('logout')
+          Toast('登出完成')
+        },
+        action => {
+          console.log('点击了取消')
+        }
+      )
+    }
+  },
   components: {
     HeaderTop
   }

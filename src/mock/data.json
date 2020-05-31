@@ -1,0 +1,1390 @@
+{
+  "info": {
+    "name": "Lily的店",
+    "description": "浩彬专送",
+    "deliveryTime": 25,
+    "score": 4.2,
+    "serviceScore": 4.1,
+    "foodScore": 4.3,
+    "rankRate": 69.2,
+    "minPrice": 20,
+    "deliveryPrice": 4,
+    "ratingCount": 24,
+    "sellCount": 90,
+    "distance": "175m",
+    "bulletin": "麦当劳（McDonald's）是全球大型跨国连锁餐厅，1955年创立于美国芝加哥，在世界上大约拥有3万间分店。主要售卖汉堡包，以及薯条、炸鸡、汽水、冰品、沙拉、水果等快餐食品。”",
+    "supports": [
+      {
+        "type": 0,
+        "name": "首单",
+        "content": "新用户下单立减17元(不与其它活动同享)"
+      },
+      {
+        "type": 1,
+        "name": "满减",
+        "content": "满35减19，满65减35"
+      },
+      {
+        "type": 2,
+        "name": "特价",
+        "content": "【立省20元】巨无霸超值套餐"
+      },
+      {
+        "type": 2,
+        "name": "特价",
+        "content": "【立省20.5元】辣腿薯条四件套"
+      },
+      {
+        "type": 2,
+        "name": "特价",
+        "content": "【立省36元】吃鸡丰盛2人餐"
+      },
+      {
+        "type": 2,
+        "name": "特价",
+        "content": "【立省39元】平安有福双人餐"
+      },
+      {
+        "type": 2,
+        "name": "特价",
+        "content": "【立省52.5元】平安有福三人餐"
+      },
+      {
+        "type": 2,
+        "name": "特价",
+        "content": "【立省46.5元】平安有福豪华三人餐"
+      }
+    ],
+    "avatar": "https://wx1.sinaimg.cn/mw690/006QPJxogy1gcpz0g6ns1j30j60y3n2c.jpg",
+    "bgImg": "https://wx3.sinaimg.cn/mw690/006QPJxogy1gcsbswxoppj30hs0dcn09.jpg",
+    "pics": [
+      "https://wx3.sinaimg.cn/mw690/006QPJxogy1gcsbswy84cj30hs0dc77p.jpg",
+      "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbswwnebj30hs0b2q4q.jpg",
+      "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsww29aj30hs0dctb1.jpg",
+      "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbswycr2j30hs0dcgpa.jpg",
+      "https://wx1.sinaimg.cn/mw690/006QPJxogy1gcsbswxn0lj30hs0dcwho.jpg"
+    ],
+    "category": "汉堡店店, 连锁快餐餐",
+    "phone": "4008-517-517",
+    "address": "广州麦当劳猎德大道分店",
+    "workTime": "00:00-24:00"
+  },
+  "goods": [
+    {
+      "name": "促销",
+      "icon": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx1dhtj3013013mwx.jpg",
+      "foods": [
+        {
+          "name": "巨无霸超值套餐",
+          "price": 20,
+          "oldPrice": "40",
+          "description": "牛肉汉堡套餐",
+          "sellCount": 91,
+          "rating": 100,
+          "info": "主、辅料:小麦、牛肉、土豆、可乐等",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很喜欢的套餐",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "超好吃",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "牛肉超赞",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            }
+          ],
+          "icon": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsdya7bfrj306o050my9.jpg",
+          "image": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsdya7bfrj306o050my9.jpg",
+          "images": [
+            "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsdya7bfrj306o050my9.jpg",
+            "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsdya7bfrj306o050my9.jpg",
+            "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsdya7bfrj306o050my9.jpg"
+          ]
+        },
+        {
+          "name": "辣腿薯条四件套",
+          "price": 39,
+          "oldPrice": "59.5",
+          "description": "辣鸡堡套餐",
+          "sellCount": 86,
+          "rating": 100,
+          "info": "辣味十足",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "太爽了",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "就是这个味",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "还有谁",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            }
+          ],
+          "icon": "https://wx2.sinaimg.cn/mw690/006QPJxogy1gcsdya7u61j306o050dh0.jpg",
+          "image": "https://wx2.sinaimg.cn/mw690/006QPJxogy1gcsdya7u61j306o050dh0.jpg",
+          "images": [
+            "https://wx2.sinaimg.cn/mw690/006QPJxogy1gcsdya7u61j306o050dh0.jpg",
+            "https://wx2.sinaimg.cn/mw690/006QPJxogy1gcsdya7u61j306o050dh0.jpg",
+            "https://wx2.sinaimg.cn/mw690/006QPJxogy1gcsdya7u61j306o050dh0.jpg"
+          ]
+        },
+        {
+          "name": "吃鸡丰盛2人餐",
+          "price": 66,
+          "oldPrice": "102",
+          "description": "两人管饱",
+          "sellCount": 84,
+          "rating": 100,
+          "info": "你们都是辣鸡堡",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "行，辣鸡就辣鸡吧",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "哎，你骂人呢",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "好吃是，好吃，能不能换个描述",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            }
+          ],
+          "icon": "https://wx3.sinaimg.cn/mw690/006QPJxogy1gcsdya7pihj306o050wfr.jpg",
+          "image": "https://wx3.sinaimg.cn/mw690/006QPJxogy1gcsdya7pihj306o050wfr.jpg"
+        },
+        {
+          "name": "平安有福双人餐",
+          "price": 69,
+          "oldPrice": "108",
+          "description": "",
+          "sellCount": 188,
+          "rating": 96,
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "双层堡还可以",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "派挺好吃的",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "那就出入平安吧",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            }
+          ],
+          "info": "",
+          "icon": "https://wx1.sinaimg.cn/mw690/006QPJxogy1gcsdya4wx0j306o050jso.jpg",
+          "image": "https://wx1.sinaimg.cn/mw690/006QPJxogy1gcsdya4wx0j306o050jso.jpg"
+        },
+        {
+          "name": "平安有福三人餐",
+          "price": 89,
+          "oldPrice": "141.5",
+          "description": "三个女神管饱",
+          "sellCount": 124,
+          "rating": 85,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "没啥味道",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 1,
+              "text": "很一般啊",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "两人吃了三人餐",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            }
+          ],
+          "icon": "https://wx3.sinaimg.cn/mw690/006QPJxogy1gcsdya3o0lj306o050402.jpg",
+          "image": "https://wx3.sinaimg.cn/mw690/006QPJxogy1gcsdya3o0lj306o050402.jpg"
+        },
+        {
+          "name": "平安有福豪华三人餐",
+          "price": 119,
+          "oldPrice": "165.5",
+          "description": "三个男神管饱",
+          "sellCount": 114,
+          "rating": 91,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "难吃不推荐",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "玉米有点拉闸",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "还是辣鸡堡最好吃",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            }
+          ],
+          "icon": "https://wx3.sinaimg.cn/mw690/006QPJxogy1gcsdya397wj306o050tab.jpg",
+          "image": "https://wx3.sinaimg.cn/mw690/006QPJxogy1gcsdya397wj306o050tab.jpg"
+        },
+        {
+          "name": "开心家庭餐",
+          "price": 99,
+          "oldPrice": "154",
+          "description": "",
+          "sellCount": 101,
+          "rating": 78,
+          "info": "全家一起吃，还送麦当劳限定玩具",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "不脆,不好吃",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "孩子特别喜欢这玩具",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "不错，孩子喜欢",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            }
+          ],
+          "icon": "https://wx1.sinaimg.cn/mw690/006QPJxogy1gcsdya6kr4j306o050402.jpg",
+          "image": "https://wx1.sinaimg.cn/mw690/006QPJxogy1gcsdya6kr4j306o050402.jpg"
+        }
+      ]
+    },
+    {
+      "name": "热卖",
+      "icon": "https://wx2.sinaimg.cn/mw690/006QPJxogy1gcsdyahaayj3013013741.jpg",
+      "foods": [
+        {
+          "name": "原味板烧鸡腿堡",
+          "price|20-25": 22.5,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 43,
+          "rating": 92,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "量还可以,味道还可以",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "熟悉的味道",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            }
+          ],
+          "icon": "https://wx2.sinaimg.cn/mw690/006QPJxogy1gcsdya34xmj306o050wff.jpg",
+          "image": "https://wx2.sinaimg.cn/mw690/006QPJxogy1gcsdya34xmj306o050wff.jpg"
+        },
+        {
+          "name": "经典麦辣鸡腿汉堡",
+          "price": 22.5,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 29,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "就是这个味",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "真辣，真爽",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            }
+          ],
+          "icon": "https://wx1.sinaimg.cn/mw690/006QPJxogy1gcsdy9yosdj306o050gmm.jpg",
+          "image": "https://wx1.sinaimg.cn/mw690/006QPJxogy1gcsdy9yosdj306o050gmm.jpg"
+        },
+        {
+          "name": "安格斯厚牛培根堡",
+          "price": 36,
+          "oldPrice": "",
+          "description": "精选安格斯牛肉",
+          "sellCount": 15,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "比巨无霸好吃",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "还可以",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            }
+          ],
+          "icon": "https://wx3.sinaimg.cn/mw690/006QPJxogy1gcsdya16x2j306o050ab6.jpg",
+          "image": "https://wx3.sinaimg.cn/mw690/006QPJxogy1gcsdya16x2j306o050ab6.jpg"
+        }
+      ]
+    },
+    {
+      "name": "小吃",
+      "foods": [
+        {
+          "name": "椒盐味那么大鸡排",
+          "price": 14.5,
+          "oldPrice": 36,
+          "description": "新出的椒盐味",
+          "sellCount": 17,
+          "rating": 100,
+          "info": "默认切块",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "真大",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            }
+          ],
+          "icon": "https://wx3.sinaimg.cn/mw690/006QPJxogy1gcsdy9z3ebj306o0500ti.jpg",
+          "image": "https://wx3.sinaimg.cn/mw690/006QPJxogy1gcsdy9z3ebj306o0500ti.jpg"
+        },
+        {
+          "name": "麦乐鸡5块",
+          "price": 13,
+          "oldPrice": 36,
+          "description": "配蜂蜜芥末酱",
+          "sellCount": 17,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "这酱还可以",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            }
+          ],
+          "icon": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsdy9zoylj306o050gme.jpg",
+          "image": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsdy9zoylj306o050gme.jpg"
+        },
+        {
+          "name": "小食分享盒",
+          "price": 34.5,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 81,
+          "rating": 91,
+          "info": "含那么大鸡排",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "好吃",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "下午茶必吃",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "会议必备",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            }
+          ],
+          "icon": "https://wx1.sinaimg.cn/mw690/006QPJxogy1gcsdya8m2dj306o050my7.jpg",
+          "image": "https://wx1.sinaimg.cn/mw690/006QPJxogy1gcsdya8m2dj306o050my7.jpg"
+        },
+        {
+          "name": "金黄脆薯格",
+          "price": 15,
+          "oldPrice": "",
+          "description": "优选土豆制成",
+          "sellCount": 80,
+          "rating": 93,
+          "info": "土豆新吃法",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "脆的",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "很有土豆味",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "薯条更好吃",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            }
+          ],
+          "icon": "https://wx1.sinaimg.cn/mw690/006QPJxogy1gcsdyy1t7pj306o050js1.jpg",
+          "image": "https://wx1.sinaimg.cn/mw690/006QPJxogy1gcsdyy1t7pj306o050js1.jpg"
+        }
+      ]
+    },
+    {
+      "name": "甜品",
+      "foods": [
+        {
+          "name": "苹果派",
+          "price": 9.5,
+          "oldPrice": 10,
+          "description": "",
+          "sellCount": 15,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "还可以",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "好吃",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            }
+          ],
+          "icon": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsdyy0j2vj306o050t9n.jpg",
+          "image": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsdyy0j2vj306o050t9n.jpg"
+        }
+      ]
+    },
+    {
+      "name": "饮品",
+      "foods": [
+        {
+          "name": "王黑金珍奶茶",
+          "price": 16,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 84,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "着实一般",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "可以试一试",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "不踩雷",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            }
+          ],
+          "icon": "https://wx2.sinaimg.cn/mw690/006QPJxogy1gcsdyy076kj306o050js3.jpg",
+          "image": "https://wx2.sinaimg.cn/mw690/006QPJxogy1gcsdyy076kj306o050js3.jpg"
+        },
+        {
+          "name": "原味珍珠奶茶",
+          "price": 15,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 28,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "就奶茶呗",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "还行吧",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "凑合",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            }
+          ],
+          "icon": "https://wx2.sinaimg.cn/mw690/006QPJxogy1gcsdyy03xvj306o050q3i.jpg",
+          "image": "https://wx2.sinaimg.cn/mw690/006QPJxogy1gcsdyy03xvj306o050q3i.jpg"
+        }
+      ]
+    },
+    {
+      "name": "开心乐园餐",
+      "foods": [
+        {
+          "name": "鱼排堡开心乐园餐",
+          "price": 27,
+          "oldPrice": "",
+          "description": "玉米，鱼排堡，小薯条",
+          "sellCount": 3,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "孩子喜欢",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            }
+          ],
+          "icon": "https://wx1.sinaimg.cn/mw690/006QPJxogy1gcsdyy1k22j306o05075k.jpg",
+          "image": "https://wx1.sinaimg.cn/mw690/006QPJxogy1gcsdyy1k22j306o05075k.jpg"
+        },
+        {
+          "name": "麦乐鸡开心乐园餐",
+          "price": 28,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 12,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "玩具好玩",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            }
+          ],
+          "icon": "https://wx1.sinaimg.cn/mw690/006QPJxogy1gcsdyy1woxj306o0503zv.jpg",
+          "image": "https://wx1.sinaimg.cn/mw690/006QPJxogy1gcsdyy1woxj306o0503zv.jpg"
+        }
+      ]
+    },
+    {
+      "name": "果拼果汁",
+      "foods": [
+        {
+          "name": "蜜瓜圣女萝莉杯",
+          "price": 6,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 1,
+          "rating": "",
+          "info": "",
+          "ratings": [],
+          "icon": "http://fuss10.elemecdn.com/b/5f/b3b04c259d5ec9fa52e1856ee50dajpeg.jpeg?imageView2/1/w/114/h/114",
+          "image": "http://fuss10.elemecdn.com/b/5f/b3b04c259d5ec9fa52e1856ee50dajpeg.jpeg?imageView2/1/w/750/h/750"
+        },
+        {
+          "name": "加多宝",
+          "price": 6,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 7,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            }
+          ],
+          "icon": "http://fuss10.elemecdn.com/b/9f/5e6c99c593cf65229225c5661bcdejpeg.jpeg?imageView2/1/w/114/h/114",
+          "image": "http://fuss10.elemecdn.com/b/9f/5e6c99c593cf65229225c5661bcdejpeg.jpeg?imageView2/1/w/750/h/750"
+        },
+        {
+          "name": "VC无限橙果汁",
+          "price": 8,
+          "oldPrice": 10,
+          "description": "",
+          "sellCount": 15,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "还可以",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            }
+          ],
+          "icon": "http://fuss10.elemecdn.com/e/c6/f348e811772016ae24e968238bcbfjpeg.jpeg?imageView2/1/w/114/h/114",
+          "image": "http://fuss10.elemecdn.com/e/c6/f348e811772016ae24e968238bcbfjpeg.jpeg?imageView2/1/w/750/h/750"
+        }
+      ]
+    },
+    {
+      "name": "小吃主食",
+      "foods": [
+        {
+          "name": "扁豆焖面",
+          "price": 14,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 188,
+          "rating": 96,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            }
+          ],
+          "icon": "http://fuss10.elemecdn.com/c/6b/29e3d29b0db63d36f7c500bca31d8jpeg.jpeg?imageView2/1/w/114/h/114",
+          "image": "http://fuss10.elemecdn.com/c/6b/29e3d29b0db63d36f7c500bca31d8jpeg.jpeg?imageView2/1/w/750/h/750"
+        },
+        {
+          "name": "葱花饼",
+          "price": 10,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 124,
+          "rating": 85,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "没啥味道",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 1,
+              "text": "很一般啊",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            }
+          ],
+          "icon": "http://fuss10.elemecdn.com/f/28/a51e7b18751bcdf871648a23fd3b4jpeg.jpeg?imageView2/1/w/114/h/114",
+          "image": "http://fuss10.elemecdn.com/f/28/a51e7b18751bcdf871648a23fd3b4jpeg.jpeg?imageView2/1/w/750/h/750"
+        },
+        {
+          "name": "牛肉馅饼",
+          "price": 14,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 114,
+          "rating": 91,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "难吃不推荐",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            }
+          ],
+          "icon": "http://fuss10.elemecdn.com/d/b9/bcab0e8ad97758e65ae5a62b2664ejpeg.jpeg?imageView2/1/w/114/h/114",
+          "image": "http://fuss10.elemecdn.com/d/b9/bcab0e8ad97758e65ae5a62b2664ejpeg.jpeg?imageView2/1/w/750/h/750"
+        },
+        {
+          "name": "招牌猪肉白菜锅贴/10个",
+          "price": 17,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 101,
+          "rating": 78,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "不脆,不好吃",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            }
+          ],
+          "icon": "http://fuss10.elemecdn.com/7/72/9a580c1462ca1e4d3c07e112bc035jpeg.jpeg?imageView2/1/w/114/h/114",
+          "image": "http://fuss10.elemecdn.com/7/72/9a580c1462ca1e4d3c07e112bc035jpeg.jpeg?imageView2/1/w/750/h/750"
+        },
+        {
+          "name": "糊塌子",
+          "price": 10,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 80,
+          "rating": 93,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            }
+          ],
+          "icon": "http://fuss10.elemecdn.com/0/05/097a2a59fd2a2292d08067e16380cjpeg.jpeg?imageView2/1/w/114/h/114",
+          "image": "http://fuss10.elemecdn.com/0/05/097a2a59fd2a2292d08067e16380cjpeg.jpeg?imageView2/1/w/750/h/750"
+        }
+      ]
+    },
+    {
+      "name": "特色粥品",
+      "foods": [
+        {
+          "name": "皮蛋瘦肉粥",
+          "price": 10,
+          "oldPrice": "",
+          "description": "咸粥",
+          "sellCount": 229,
+          "rating": 100,
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很喜欢的粥",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            }
+          ],
+          "icon": "http://fuss10.elemecdn.com/c/cd/c12745ed8a5171e13b427dbc39401jpeg.jpeg?imageView2/1/w/114/h/114",
+          "image": "http://fuss10.elemecdn.com/c/cd/c12745ed8a5171e13b427dbc39401jpeg.jpeg?imageView2/1/w/750/h/750"
+        },
+        {
+          "name": "南瓜粥",
+          "price": 9,
+          "oldPrice": "",
+          "description": "甜粥",
+          "sellCount": 91,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            }
+          ],
+          "icon": "http://fuss10.elemecdn.com/8/a6/453f65f16b1391942af11511b7a90jpeg.jpeg?imageView2/1/w/114/h/114",
+          "image": "http://fuss10.elemecdn.com/8/a6/453f65f16b1391942af11511b7a90jpeg.jpeg?imageView2/1/w/750/h/750"
+        },
+        {
+          "name": "红豆薏米美肤粥",
+          "price": 12,
+          "oldPrice": "",
+          "description": "甜粥",
+          "sellCount": 86,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            }
+          ],
+          "icon": "http://fuss10.elemecdn.com/d/22/260bd78ee6ac6051136c5447fe307jpeg.jpeg?imageView2/1/w/114/h/114",
+          "image": "http://fuss10.elemecdn.com/d/22/260bd78ee6ac6051136c5447fe307jpeg.jpeg?imageView2/1/w/750/h/750"
+        },
+        {
+          "name": "红枣山药糙米粥",
+          "price": 10,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 81,
+          "rating": 91,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            }
+          ],
+          "icon": "http://fuss10.elemecdn.com/9/b5/469d8854f9a3a03797933fd01398bjpeg.jpeg?imageView2/1/w/114/h/114",
+          "image": "http://fuss10.elemecdn.com/9/b5/469d8854f9a3a03797933fd01398bjpeg.jpeg?imageView2/1/w/750/h/750"
+        },
+        {
+          "name": "鲜蔬菌菇粥",
+          "price": 11,
+          "oldPrice": "",
+          "description": "咸粥",
+          "sellCount": 56,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": ""
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            }
+          ],
+          "icon": "http://fuss10.elemecdn.com/e/a3/5317c68dd618929b6ac05804e429ajpeg.jpeg?imageView2/1/w/114/h/114",
+          "image": "http://fuss10.elemecdn.com/e/a3/5317c68dd618929b6ac05804e429ajpeg.jpeg?imageView2/1/w/750/h/750"
+        },
+        {
+          "name": "田园蔬菜粥",
+          "price": 10,
+          "oldPrice": "",
+          "description": "咸粥",
+          "sellCount": 33,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg"
+            }
+          ],
+          "icon": "http://fuss10.elemecdn.com/a/94/7371083792c19df00e546b29e344cjpeg.jpeg?imageView2/1/w/114/h/114",
+          "image": "http://fuss10.elemecdn.com/a/94/7371083792c19df00e546b29e344cjpeg.jpeg?imageView2/1/w/750/h/750"
+        }
+      ]
+    }
+  ],
+  "ratings": [
+    {
+      "username": "3******c",
+      "rateTime": 1569281964000,
+      "deliveryTime": 30,
+      "score": 5,
+      "rateType": 0,
+      "text": "我经常吃这一家,非常赞,以后也会常来吃,强烈推荐.",
+      "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg",
+      "recommend": [
+        "巨无霸超值套餐",
+        "麦乐鸡开心乐园餐",
+        "麦乐鸡5块",
+        "原味板烧鸡腿堡",
+        "经典麦辣鸡腿堡"
+      ]
+    },
+    {
+      "username": "2******3",
+      "rateTime": 1569271264000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "deliveryTime": "",
+      "text": "服务态度不错",
+      "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg",
+      "recommend": [
+        "扁豆焖面"
+      ]
+    },
+    {
+      "username": "3******b",
+      "rateTime": 1569261964000,
+      "score": 3,
+      "rateType": 1,
+      "text": "",
+      "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg",
+      "recommend": []
+    },
+    {
+      "username": "1******c",
+      "rateTime": 1569261864000,
+      "deliveryTime": 20,
+      "score": 5,
+      "rateType": 0,
+      "text": "良心店铺",
+      "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg",
+      "recommend": []
+    },
+    {
+      "username": "2******d",
+      "rateTime": 1569251264000,
+      "deliveryTime": 10,
+      "score": 4,
+      "rateType": 0,
+      "text": "",
+      "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg",
+      "recommend": []
+    },
+    {
+      "username": "9******0",
+      "rateTime": 1569241964000,
+      "deliveryTime": 70,
+      "score": 1,
+      "rateType": 1,
+      "text": "送货速度蜗牛一样",
+      "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg",
+      "recommend": []
+    },
+    {
+      "username": "d******c",
+      "rateTime": 1569231964000,
+      "deliveryTime": 30,
+      "score": 5,
+      "rateType": 0,
+      "text": "很喜欢的快餐店店",
+      "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg",
+      "recommend": []
+    },
+    {
+      "username": "2******3",
+      "rateTime": 1569221264000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "量给的还可以",
+      "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg",
+      "recommend": []
+    },
+    {
+      "username": "3******8",
+      "rateTime": 1569211964000,
+      "deliveryTime": "",
+      "score": 3,
+      "rateType": 1,
+      "text": "",
+      "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg",
+      "recommend": []
+    },
+    {
+      "username": "a******a",
+      "rateTime": 1569201964000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "孩子喜欢吃这家",
+      "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg",
+      "recommend": [
+        "经典麦辣鸡腿堡"
+      ]
+    },
+    {
+      "username": "3******3",
+      "rateTime": 1569191264000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "汉堡挺好吃的",
+      "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg",
+      "recommend": []
+    },
+    {
+      "username": "t******b",
+      "rateTime": 1569181964000,
+      "deliveryTime": "",
+      "score": 3,
+      "rateType": 1,
+      "text": "",
+      "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg",
+      "recommend": []
+    },
+    {
+      "username": "f******c",
+      "rateTime": 1569171964000,
+      "deliveryTime": 15,
+      "score": 5,
+      "rateType": 0,
+      "text": "送货速度很快",
+      "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg",
+      "recommend": []
+    },
+    {
+      "username": "k******3",
+      "rateTime": 1569161264000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "",
+      "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg",
+      "recommend": []
+    },
+    {
+      "username": "u******b",
+      "rateTime": 1569151964000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "下雨天给快递小哥点个赞",
+      "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg",
+      "recommend": []
+    },
+    {
+      "username": "s******c",
+      "rateTime": 1569141964000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "好",
+      "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg",
+      "recommend": []
+    },
+    {
+      "username": "z******3",
+      "rateTime": 1569131264000,
+      "deliveryTime": "",
+      "score": 5,
+      "rateType": 0,
+      "text": "吃了还想再吃",
+      "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg",
+      "recommend": []
+    },
+    {
+      "username": "n******b",
+      "rateTime": 1569121964000,
+      "deliveryTime": "",
+      "score": 3,
+      "rateType": 1,
+      "text": "发票开的不对",
+      "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg",
+      "recommend": []
+    },
+    {
+      "username": "m******c",
+      "rateTime": 1569111964000,
+      "deliveryTime": 30,
+      "score": 5,
+      "rateType": 0,
+      "text": "好吃",
+      "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg",
+      "recommend": []
+    },
+    {
+      "username": "l******3",
+      "rateTime": 1569101264000,
+      "deliveryTime": 40,
+      "score": 5,
+      "rateType": 0,
+      "text": "还不错吧",
+      "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg",
+      "recommend": []
+    },
+    {
+      "username": "3******o",
+      "rateTime": 1569091964000,
+      "deliveryTime": "",
+      "score": 2,
+      "rateType": 1,
+      "text": "",
+      "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg",
+      "recommend": []
+    },
+    {
+      "username": "3******p",
+      "rateTime": 1569081964000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "很喜欢的快餐",
+      "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg",
+      "recommend": []
+    },
+    {
+      "username": "o******k",
+      "rateTime": 1569071264000,
+      "deliveryTime": "",
+      "score": 5,
+      "rateType": 0,
+      "text": "",
+      "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg",
+      "recommend": []
+    },
+    {
+      "username": "k******b",
+      "rateTime": 1569061964000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "",
+      "avatar": "https://wx4.sinaimg.cn/mw690/006QPJxogy1gcsbsx0m1jj306x0710sw.jpg",
+      "recommend": []
+    }
+  ]
+}

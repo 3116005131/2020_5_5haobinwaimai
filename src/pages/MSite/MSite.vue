@@ -45,11 +45,47 @@
 </template>
 
 <script>
+import {mapState} from 'vuex'
 import Swiper from 'swiper'
 import 'swiper/css/swiper.min.css'
 import HeaderTop from '../../components/HeaderTop/HeaderTop'
 import ShopList from '../../components/ShopList/ShopList'
 export default {
+  data () {
+    return {
+      baseImageUrl: 'https://'
+    }
+  },
+  mounted () {
+    this.$store.dispatch('getCategorys')
+    this.$store.dispatch('getShops')
+  },
+
+  computed: {
+    ...mapState(['address', 'categorys', 'userInfo']),
+
+    /*
+    根据categorys一维数组生成一个二维数组
+     */
+    categorysArr () {
+      const {categorys} = this
+      // 准备一个空的二维数组
+      const arr = []
+      // 准备一个小数组（最大长度为8）
+      let minArr = []
+      categorys.forEach(c => {
+        if (minArr.length === 8) {
+          minArr = []
+        }
+        if (minArr.length === 0) {
+          arr.push(minArr)
+        }
+        minArr.push(c)
+      })
+
+      return arr
+    }
+  },
   watch: {
     categorys (value) {
       this.$nextTick(() => {
@@ -59,7 +95,7 @@ export default {
             el: '.swiper-pagination'
           }
         })
-        swiper.use({
+        Swiper.use({
           swiper
         })
       })

@@ -58,7 +58,115 @@
 </template>
 
 <script>
-export default {}
+import AlertTip from '../../components/AlertTip/AlertTip'
+import {reqSendCode, reqSmsLogin, reqPwdLogin} from '../../api'
+export default {
+  data () {
+    return {
+      loginWay: true,
+      computerTime: 0,
+      showPwd: false,
+      phone: '',
+      code: '',
+      name: '',
+      pwd: '',
+      captcha: '',
+      alertText: '', // 提示文本
+      alertShow: false // 是否显示警告框
+    }
+  },
+  computed: {
+    rightPhone () {
+      return /^1\d{10}$/.test(this.phone)
+    }
+  },
+  methods: {
+    async getCode () {
+      if (!this.computerTime) {
+        // 启动倒计时
+        this.computerTime = 30
+        this.intervalId = setInterval(() => {
+          this.computerTime--
+          if (this.computerTime <= 0) {
+            clearInterval(this.intervalId)
+          }
+        }, 1000)
+
+        // 发送ajax请求
+        const result = await reqSendCode(this.phone)
+        if (result.code === 1) {
+          // 显示提示
+          this.showAlert(result.msg)
+          // 停止倒计时
+          if (this.computerTime) {
+            this.computerTime = 0
+            clearInterval(this.intervalId)
+            this.intervalId = undefined
+          }
+        }
+      }
+    },
+    showAlert (alertText) {
+      this.alertShow = true
+      this.alertText = alertText
+    },
+    async login () {
+      let result
+      if (this.loginWay) {
+        const {rightPhone, phone, code} = this
+        if (!rightPhone) {
+          // 手机号不正确
+          this.showAlert('手机号不正确')
+          return
+        } else if (!/^\d{6}$/.test(code)) {
+          this.showAlert('验证码必须是6位数字')
+          return
+        }
+        // 发送ajax请求短信登录
+        result = await reqSmsLogin(phone, code)
+      } else { // 密码登陆
+        const {name, pwd, captcha} = this
+        if (!this.name) {
+          this.showAlert('用户名必须指定')
+          return
+        } else if (!this.pwd) {
+          this.showAlert('密码必须指定')
+          return
+        } else if (!this.captcha) {
+          this.showAlert('验证码必须指定')
+          return
+        }
+        // 发送ajax请求密码登录
+        result = await reqPwdLogin({name, pwd, captcha})
+      }
+
+      // 根据结果数据处理
+      if (result.code === 0) {
+        const user = result.data
+        // 将user保存到vuex的state
+        this.$store.dispatch('recordUser', user)
+        // 去个人中心界面
+        this.$router.replace('/profile')
+      } else {
+        // 显示新的图片验证码
+        this.getCaptcha()
+        // 显示警告提示
+        const msg = result.msg
+        this.showAlert(msg)
+      }
+    },
+    closeTip () {
+      this.alertShow = false
+      this.alertText = ''
+    },
+    getCaptcha () {
+      this.$refs.captcha.src = 'http://localhost:4000/captcha?time=' + Date.now()
+    }
+  },
+  components: {
+    AlertTip
+  }
+}
 </script>
 
 <style lang="stylus" rel="stylesheet/stylus">
